@@ -1,1 +1,1 @@
-last dsa project! So this one had zero instruction so I vibed through the whole thing right before finals but not bad at all. very heavy on the search algos and 2-d array. fun to play i reccomend (there's three modes, try it out).
+last dsa project hellooooo minesweeper. this game was my entire childhood and the project had zero hand-holding, which i actually really enjoyed so have fun if you look through the logic. very heavy on the search algos and 2-d array. fun to play i reccomend (there's three modes, try it out).
